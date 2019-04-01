@@ -1,0 +1,18 @@
+{
+  "status": "new",
+  "noon": false,
+  "vote": false,
+  "state": "idle",
+  "players": [
+    {
+      "id": "U83caf7c21caa4cb90f5c616e0ef85e3a",
+      "status": "alive",
+      "role": "villager",
+      "vote": "pending",
+      "choosen": 0,
+      "groupId": "C30827d65e4dbc8b3966e7db053e799a2",
+      "name": "Eriec Tan"
+    }
+  ],
+  "lynch_candidate": ""
+}
